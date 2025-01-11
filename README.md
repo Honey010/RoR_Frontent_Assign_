@@ -1,0 +1,1 @@
+# RoR_Frontent_Assign_
